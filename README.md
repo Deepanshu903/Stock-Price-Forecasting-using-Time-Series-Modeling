@@ -121,4 +121,3 @@ microsoft-stock-prediction/
 
 - The model uses standardized data for better training performance
 - Predictions are inverse-transformed to original scale for interpretation
-- The date filter in the code (2013-2018) can be adjusted based on your data range](https://www.perplexity.ai/search/a503de4a-0345-4cac-bd51-f9d1a41200a7?0=c)](https://www.perplexity.ai/search/a503de4a-0345-4cac-bd51-f9d1a41200a7?0=c)
