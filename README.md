@@ -109,11 +109,11 @@ You can modify the following parameters in the script:
 ## Project Structure
 
 ```
-microsoft-stock-prediction/
-â”œâ”€â”€ stock_prediction.py          # Main script
-â”œâ”€â”€ MicrosoftStock.csv           # Stock data
-â”œâ”€â”€ README.md                    # Documentation
-â””â”€â”€ requirements.txt             # Dependencies
+stock-prediction/
+Model.py          # Main script
+Stock_price.csv              # Stock data
+README.md                    # Documentation
+requirements.txt             # Dependencies
 
 ```
 
