@@ -92,8 +92,10 @@ The LSTM model consists of:
 ## Model Performance
 
 The model performance is evaluated using:
-- **RMSE (Root Mean Squared Error)**: Measures prediction accuracy
-- **MAE (Mean Absolute Error)**: Average absolute difference between predicted and actual prices
+- **RMSE (Root Mean Squared Error)**: 1.3761667927774914
+- **MAE (Mean Absolute Error)**: 0.9797811643538931
+- <img width="996" height="701" alt="image" src="https://github.com/user-attachments/assets/9e54caef-68b6-48d4-bf18-9b4b75abe22f" />
+
 
 ## Configuration
 
